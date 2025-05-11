@@ -1,5 +1,10 @@
+import Display from "../components/Display/Display"
+
 export default function QuizPage() {
   return (
-    <div>QuizPage</div>
+    <>
+        <Display></Display>
+    </>
   )
+  
 }
